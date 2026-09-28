@@ -6,14 +6,14 @@
 This project is dedicated to my dog 🦮
 
 -----------------------------------
-## TEAM
+## Team
 
 - DevOps - Arsen
 - Full Stack - Arsen
 - QA - Arsen
 
 -----------------------------------
-## Management
+## Tech stack
 
 - Team lead - Arsen
 
