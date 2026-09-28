@@ -1,13 +1,13 @@
 # My neouniversity project 
 
 -----------------------------------
-## TEAM
+## Team
 
 1. DevOps - Arsen
 2. Full Stack - Arsen
 3. QA - Arsen
 
 -----------------------------------
-## Management
+## Tech stack
 
 1. Team lead - Arsen
