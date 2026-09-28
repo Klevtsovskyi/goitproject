@@ -1,13 +1,23 @@
 # My neouniversity project 
 
 -----------------------------------
+## Project description
+
+This project is dedicated to my dog 🦮
+
+-----------------------------------
 ## TEAM
 
-1. DevOps - Arsen
-2. Full Stack - Arsen
-3. QA - Arsen
+- DevOps - Arsen
+- Full Stack - Arsen
+- QA - Arsen
 
 -----------------------------------
 ## Management
 
-1. Team lead - Arsen
+- Team lead - Arsen
+
+-----------------------------------
+## Notes
+
+Put your notes here.
