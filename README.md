@@ -1,6 +1,6 @@
 # GOIT project
 
-Description
+Description...
 
 -----------------------------------
 
