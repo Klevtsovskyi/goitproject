@@ -10,6 +10,14 @@ Description...
 - DevOps: Arsen
 - QA: Arsen
 
+-----------------------------------
+
 ## Tech Stack
 
 - Team Lead: Arsen
+
+-----------------------------------
+
+## Info
+
+Some info...
