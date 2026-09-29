@@ -15,7 +15,7 @@ Description...
 
 ## Tech Stack
 
-- Team Lead: Arsen
+- TEAM LEAD: Arsen
 
 -----------------------------------
 
