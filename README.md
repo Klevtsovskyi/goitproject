@@ -9,6 +9,7 @@ Description...
 - Full Stack: Arsen
 - DevOps: Arsen
 - QA: Arsen
+- Database: Arsen
 
 -----------------------------------
 
