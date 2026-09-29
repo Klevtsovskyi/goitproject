@@ -16,6 +16,7 @@ Description...
 ## Tech Stack
 
 - TEAM LEAD: Arsen
+- GitHub Project manager: Arsen
 
 -----------------------------------
 
